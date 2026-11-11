@@ -1,8 +1,8 @@
 # 🚀 Panerex OS
 
-![Panerex OS Banner](https://panerexos.rudd-adhara.ts.net/logo.png) <!-- Opcjonalny link do obrazka na Twojej stronie -->
+![Panerex OS Banner](https://panerexos.rudd-adhara.ts.net/assets/Logo.jpeg) <!-- Opcjonalny link do obrazka na Twojej stronie -->
 
-**Panerex OS** to autorski projekt systemu operacyjnego stworzony z myślą o... [krótki opis projektu].
+**Panerex OS** to autorski projekt systemu operacyjnego stworzony z myślą o graniu.
 
 🌐 **Oficjalna strona projektu:** [https://panerexos.rudd-adhara.ts.net](https://panerexos.rudd-adhara.ts.net)
 
